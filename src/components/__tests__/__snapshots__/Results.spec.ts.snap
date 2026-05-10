@@ -1,0 +1,72 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Results > matches snapshot with no results 1`] = `
+"<div data-v-b3148246="" class="results">
+  <div data-v-b3148246="" class="results__header">Results</div>
+  <div data-v-b3148246="" class="results__body">
+    <div data-v-b3148246="" class="results__empty"> Turlar tamamlandıkça burada görünür </div>
+  </div>
+</div>"
+`;
+
+exports[`Results > matches snapshot with one completed round 1`] = `
+"<div data-v-b3148246="" class="results">
+  <div data-v-b3148246="" class="results__header">Results</div>
+  <div data-v-b3148246="" class="results__body">
+    <!--v-if-->
+    <div data-v-b3148246="" class="results__round">
+      <div data-v-b3148246="" class="results__round-title"> Round 1 — 1200m </div>
+      <table data-v-b3148246="" class="results__table">
+        <thead data-v-b3148246="">
+          <tr data-v-b3148246="">
+            <th data-v-b3148246="">Pos.</th>
+            <th data-v-b3148246="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-b3148246="">
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">1</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">2</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">3</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">4</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">5</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">6</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">7</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">8</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">9</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-b3148246="">
+            <td data-v-b3148246="" class="pos-cell">10</td>
+            <td data-v-b3148246=""><span data-v-b3148246="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>"
+`;

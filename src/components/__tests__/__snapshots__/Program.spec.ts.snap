@@ -1,0 +1,337 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Program > matches snapshot with empty schedule 1`] = `
+"<div data-v-7f0bd69f="" class="program">
+  <div data-v-7f0bd69f="" class="program__header">Program</div>
+  <div data-v-7f0bd69f="" class="program__body">
+    <div data-v-7f0bd69f="" class="program__empty"> Henüz program oluşturulmadı </div>
+  </div>
+</div>"
+`;
+
+exports[`Program > matches snapshot with full schedule 1`] = `
+"<div data-v-7f0bd69f="" class="program">
+  <div data-v-7f0bd69f="" class="program__header">Program</div>
+  <div data-v-7f0bd69f="" class="program__body">
+    <!--v-if-->
+    <div data-v-7f0bd69f="" class="program__round">
+      <div data-v-7f0bd69f="" class="program__round-title"> Round 1 — 1200m </div>
+      <table data-v-7f0bd69f="" class="program__table">
+        <thead data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <th data-v-7f0bd69f="">Pos.</th>
+            <th data-v-7f0bd69f="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">1</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">2</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">3</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">4</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">5</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">6</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">7</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">8</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">9</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">10</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div data-v-7f0bd69f="" class="program__round">
+      <div data-v-7f0bd69f="" class="program__round-title"> Round 2 — 1400m </div>
+      <table data-v-7f0bd69f="" class="program__table">
+        <thead data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <th data-v-7f0bd69f="">Pos.</th>
+            <th data-v-7f0bd69f="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">1</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">2</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">3</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">4</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">5</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">6</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">7</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">8</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">9</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">10</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div data-v-7f0bd69f="" class="program__round">
+      <div data-v-7f0bd69f="" class="program__round-title"> Round 3 — 1600m </div>
+      <table data-v-7f0bd69f="" class="program__table">
+        <thead data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <th data-v-7f0bd69f="">Pos.</th>
+            <th data-v-7f0bd69f="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">1</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">2</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">3</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">4</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">5</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">6</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">7</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">8</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">9</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">10</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div data-v-7f0bd69f="" class="program__round">
+      <div data-v-7f0bd69f="" class="program__round-title"> Round 4 — 1800m </div>
+      <table data-v-7f0bd69f="" class="program__table">
+        <thead data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <th data-v-7f0bd69f="">Pos.</th>
+            <th data-v-7f0bd69f="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">1</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">2</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">3</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">4</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">5</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">6</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">7</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">8</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">9</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">10</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div data-v-7f0bd69f="" class="program__round">
+      <div data-v-7f0bd69f="" class="program__round-title"> Round 5 — 2000m </div>
+      <table data-v-7f0bd69f="" class="program__table">
+        <thead data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <th data-v-7f0bd69f="">Pos.</th>
+            <th data-v-7f0bd69f="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">1</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">2</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">3</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">4</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">5</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">6</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">7</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">8</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">9</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">10</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div data-v-7f0bd69f="" class="program__round">
+      <div data-v-7f0bd69f="" class="program__round-title"> Round 6 — 2200m </div>
+      <table data-v-7f0bd69f="" class="program__table">
+        <thead data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <th data-v-7f0bd69f="">Pos.</th>
+            <th data-v-7f0bd69f="">Name</th>
+          </tr>
+        </thead>
+        <tbody data-v-7f0bd69f="">
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">1</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(192, 57, 43);"></span> Küheylan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">2</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(36, 113, 163);"></span> Karabeyaz</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">3</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(30, 132, 73);"></span> Fırtına</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">4</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(212, 160, 23);"></span> Şimşek</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">5</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(108, 52, 131);"></span> Rüzgar</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">6</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(17, 122, 101);"></span> Akdoru</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">7</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(211, 84, 0);"></span> Yıldırım</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">8</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(26, 82, 118);"></span> Şahin</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">9</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(123, 36, 28);"></span> Doğan</td>
+          </tr>
+          <tr data-v-7f0bd69f="">
+            <td data-v-7f0bd69f="">10</td>
+            <td data-v-7f0bd69f=""><span data-v-7f0bd69f="" class="dot" style="background-color: rgb(14, 102, 85);"></span> Kartal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>"
+`;

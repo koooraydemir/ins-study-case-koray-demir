@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HorseLane > matches snapshot at rest 1`] = `
+"<div data-v-56a4a835="" class="lane">
+  <div data-v-56a4a835="" class="lane__number">1</div>
+  <div data-v-56a4a835="" class="lane__track">
+    <div data-v-56a4a835="" class="lane__horse" style="--anim-duration: 5000ms;"><span data-v-56a4a835="" class="lane__color-dot" style="background: rgb(192, 57, 43);"></span><span data-v-56a4a835="" class="lane__emoji">🏇</span></div>
+  </div>
+</div>"
+`;
+
+exports[`HorseLane > matches snapshot while racing 1`] = `
+"<div data-v-56a4a835="" class="lane">
+  <div data-v-56a4a835="" class="lane__number">1</div>
+  <div data-v-56a4a835="" class="lane__track">
+    <div data-v-56a4a835="" class="lane__horse lane__horse--racing" style="--anim-duration: 5000ms;"><span data-v-56a4a835="" class="lane__color-dot" style="background: rgb(192, 57, 43);"></span><span data-v-56a4a835="" class="lane__emoji">🏇</span></div>
+  </div>
+</div>"
+`;

@@ -1,0 +1,140 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HorseList > matches snapshot with horses generated 1`] = `
+"<div data-v-4cc3ce99="" class="horse-list">
+  <div data-v-4cc3ce99="" class="horse-list__header"><span data-v-4cc3ce99="">Horse List (1-20)</span></div>
+  <div data-v-4cc3ce99="" class="horse-list__table-wrapper">
+    <table data-v-4cc3ce99="" class="horse-list__table">
+      <thead data-v-4cc3ce99="">
+        <tr data-v-4cc3ce99="">
+          <th data-v-4cc3ce99="">Name</th>
+          <th data-v-4cc3ce99="">Condition</th>
+          <th data-v-4cc3ce99="">Color</th>
+        </tr>
+      </thead>
+      <tbody data-v-4cc3ce99="">
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Küheylan</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(192, 57, 43);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Karabeyaz</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(36, 113, 163);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Fırtına</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(30, 132, 73);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Şimşek</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(212, 160, 23);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Rüzgar</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(108, 52, 131);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Akdoru</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(17, 122, 101);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Yıldırım</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(211, 84, 0);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Şahin</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(26, 82, 118);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Doğan</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(123, 36, 28);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Kartal</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(14, 102, 85);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Duman</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(98, 101, 103);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Bora</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(93, 64, 55);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Kasırga</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(2, 119, 189);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Ejder</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(85, 139, 47);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Arslan</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(123, 31, 162);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Çakır</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(245, 127, 23);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Kırat</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(0, 137, 123);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Bozkır</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(94, 53, 177);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Demirbaş</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(173, 20, 87);"></span></td>
+        </tr>
+        <tr data-v-4cc3ce99="">
+          <td data-v-4cc3ce99="">Aydın</td>
+          <td data-v-4cc3ce99="">51</td>
+          <td data-v-4cc3ce99=""><span data-v-4cc3ce99="" class="color-chip" style="background-color: rgb(2, 136, 209);"></span></td>
+        </tr>
+      </tbody>
+    </table>
+    <!--v-if-->
+  </div>
+</div>"
+`;
+
+exports[`HorseList > matches snapshot with no horses 1`] = `
+"<div data-v-4cc3ce99="" class="horse-list">
+  <div data-v-4cc3ce99="" class="horse-list__header"><span data-v-4cc3ce99="">Horse List (1-20)</span></div>
+  <div data-v-4cc3ce99="" class="horse-list__table-wrapper">
+    <table data-v-4cc3ce99="" class="horse-list__table">
+      <thead data-v-4cc3ce99="">
+        <tr data-v-4cc3ce99="">
+          <th data-v-4cc3ce99="">Name</th>
+          <th data-v-4cc3ce99="">Condition</th>
+          <th data-v-4cc3ce99="">Color</th>
+        </tr>
+      </thead>
+      <tbody data-v-4cc3ce99=""></tbody>
+    </table>
+    <div data-v-4cc3ce99="" class="horse-list__empty"> Program oluşturmak için Generate'e bas </div>
+  </div>
+</div>"
+`;
